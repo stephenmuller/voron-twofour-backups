@@ -1,1 +1,3 @@
-scripts/clonedrepos/
+scripts/clonedrepos/measure_thermal_behavior.py 
+scripts/clonedrepos/process_meshes.py 
+scripts/clonedrepos/requirements.txt
